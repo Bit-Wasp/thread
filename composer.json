@@ -1,0 +1,8 @@
+{
+  "name": "bitwasp/thread",
+  "autoload": {
+    "psr-4": {
+      "BitWasp\\Thread\\": "src"
+    }
+  }
+}
